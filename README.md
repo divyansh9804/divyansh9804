@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @divyansh9804
+- 👀 I’m interested in computer sci
+- 🌱 I’m currently learning in school
